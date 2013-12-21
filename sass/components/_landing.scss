@@ -1,0 +1,86 @@
+/**
+ * @file
+ * Define CSS for homa page and comparative table elements.
+ */
+
+#content {
+  padding: 0;
+}
+
+#landing-page {
+
+  text-align: center;
+  img {
+    width: 100%;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .big-gothic {
+    font-family: 'leaguegothic';
+    font-size: 20em;
+    color: #d8d8d0;
+    line-height: 1em;
+  }
+
+  .little-montserrat {
+    font-family: 'montserratbold';
+    font-size: 8em;
+    color: #484848;
+    line-height: 1em;
+    text-shadow: 2px 2px 0px #666;
+  }
+  
+
+  .big-montserrat {
+    font-family: 'montserratbold';
+    font-size: 9em;
+    color: #484848;
+    line-height: 1em;
+    text-shadow: 2px 2px 0px #666;
+  }
+
+  .little-lobster {
+    font-family: 'lobster';
+    font-size: 0.6em;
+    color: #484848;
+    text-shadow: 2px 2px 0px #666;
+  }
+
+  .red {
+    color: #fe0000;
+  }
+
+  .join {
+    color: #797874;
+    font-size: 4em;
+    line-height: 1em;
+    text-shadow: none;
+    margin: 0.5em;
+  }
+
+  .spread {
+    color: #ff4f13;
+    font-size: 4em;
+    line-height: 1em;
+    text-shadow: none;
+  }
+
+  .form-item-mail, .form-submit {
+    font-size: 2em;
+    line-height: 1.3em;
+  }
+
+  .description {
+    font-family: 'robotoslab';
+    min-height: 300px;
+    text-align: left;
+    padding: 3em;
+    padding-left: 6em;
+    padding-right: 6em;
+    font-size: 1.5em;
+  }
+
+}
